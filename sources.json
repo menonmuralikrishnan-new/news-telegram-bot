@@ -1,0 +1,40 @@
+{
+    "sources": {
+        "AI & Technology": {
+            "Technology": "https://indianexpress.com/section/technology/feed/",
+            "Artificial Intelligence": "https://indianexpress.com/section/technology/artificial-intelligence/feed/"
+        },
+
+        "India & Politics": {
+            "India": "https://indianexpress.com/section/india/feed/",
+            "Politics": "https://indianexpress.com/section/politics/feed/"
+        },
+
+        "World & Geopolitics": {
+            "World": "https://indianexpress.com/section/world/feed/"
+        },
+
+        "Business & Economy": {
+            "Business": "https://indianexpress.com/section/business/feed/",
+            "Economy": "https://indianexpress.com/section/business/economy/feed/"
+        },
+
+        "Stock Market": {
+            "Market": "https://indianexpress.com/section/business/market/feed/",
+            "Smart Stocks": "https://indianexpress.com/section/smart-stocks/feed/"
+        },
+
+        "Cricket": {
+            "Cricket": "https://indianexpress.com/section/sports/cricket/feed/"
+        },
+
+        "Football": {
+            "Football": "https://indianexpress.com/section/sports/football/feed/"
+        },
+
+        "Malayalam Cinema": {
+            "Malayalam Entertainment": "https://indianexpress.com/section/entertainment/malayalam/feed/",
+            "Mollywood Movie Review": "https://indianexpress.com/section/entertainment/malayalam/mollywood-movie-review/feed/"
+        }
+    }
+}   
